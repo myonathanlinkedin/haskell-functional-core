@@ -1,0 +1,12 @@
+{
+  "topic": "Suffix Automaton for Linear-Time Substring Indexing",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-05T19:02:25.441574+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
