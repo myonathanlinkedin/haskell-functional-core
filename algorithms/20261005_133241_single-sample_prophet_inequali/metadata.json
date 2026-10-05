@@ -1,0 +1,12 @@
+{
+  "topic": "Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-05T13:32:41.340208+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
