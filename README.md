@@ -2,7 +2,7 @@
 > Mathematically verified functional structures, monadic architectures, and combinatorial algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/haskell-functional-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-5%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-6%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -18,6 +18,7 @@
 | 3 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_072349_simulated_annealing_optimizati/main.hs) |
 | 4 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_113241_merkle_tree_verification_and_p/core.hs) |
 | 5 | **Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_133241_single-sample_prophet_inequali/core.hs) |
+| 6 | **Sorting a million rows in JavaScript, and where the time actually goes** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_173156_sorting_a_million_rows_in_java/types.hs) |
 
 ---
 
@@ -46,4 +47,4 @@ runhaskell main.hs
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 13:32 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-05 17:32 UTC*</sub>
