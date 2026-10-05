@@ -1,0 +1,8 @@
+{
+  "topic": "Least Recently Used (LRU) Cache with Doubly Linked List",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-05T06:21:14.887216+00:00",
+  "source_file": "main.hs"
+}
