@@ -1,0 +1,12 @@
+{
+  "topic": "A new, bespoke static site generator to replace Jekyll",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-06T07:53:15.845550+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
