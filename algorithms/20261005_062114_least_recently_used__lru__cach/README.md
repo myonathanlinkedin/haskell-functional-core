@@ -1,6 +1,6 @@
 # Least Recently Used (LRU) Cache with Doubly Linked List
 
-High-performance **Least Recently Used (LRU) Cache with Doubly Linked List** primitive implemented in idiomatic **Haskell**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **Least Recently Used (LRU) Cache with Doubly Linked List** algorithmic primitive written in idiomatic **Haskell**. Built from scratch using standard library constructs with zero external dependencies.
 
 ---
 
@@ -9,16 +9,16 @@ High-performance **Least Recently Used (LRU) Cache with Doubly Linked List** pri
 This module organizes `Least Recently Used (LRU) Cache with Doubly Linked List` into an isolated, self-contained unit:
 * **Domain Focus**: `Low-Latency Systems & Memory Layout`
 * **Primary Primitives**: `Contiguous Memory Buffer & Ring Pointers`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(1)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N) bounded$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(1)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N) bounded` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ runghc main.hs
 
 ---
 
-<sub>Crafted with modern Haskell standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Haskell reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>

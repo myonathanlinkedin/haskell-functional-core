@@ -1,45 +1,27 @@
-# Simulated Annealing Optimization for Combinatorial Graphs
+# Simulated Annealing Optimization for Combinatorial Graphs in Haskell
 
-> Production-grade, mathematically verified Haskell implementation of **Simulated Annealing Optimization for Combinatorial Graphs**.  
-> Developed and maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
+A clean, dependency-free **Haskell** reference implementation of **Simulated Annealing Optimization for Combinatorial Graphs**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
----
+## Implementation Details
 
-## 📐 Mathematical & Architectural Overview
-This module implements the **Simulated Annealing Optimization for Combinatorial Graphs** algorithm and data structure using modern, idiomatic **Haskell** with zero external dependencies.
+* **Category**: `Graph Topology & Traversal`
+* **Data Structure Foundation**: `Adjacency List & Priority Heap`
+* **Allocation Pattern**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Invariant Integrity**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
-### 🔍 Design Characteristics:
-* **Memory Safety & Layout**: Optimized memory allocation and cache locality for maximum runtime efficiency.
-* **Deterministic Guarantees**: Enforces strict invariant fulfillment across state transitions.
-* **Thread Safety**: Formally resilient against race conditions and concurrency hazards or deterministically isolated.
+## Performance Characteristics
 
----
+* **Time**: `O((V + E) log V)` average, with `O(V + E)` best-case response under ideal conditions.
+* **Space**: `O(V + E)` memory usage.
 
-## 📊 Big-O Complexity Analysis
+## Test Harness
 
-| Dimension | Complexity | Performance Profile |
-|---|:---:|---|
-| **Time (Best Case)** | $\mathcal{O}(1)$ to $\mathcal{O}(\log N)$ | Dependent on access patterns and cache hit ratio. |
-| **Time (Average / Worst)** | $\mathcal{O}(N)$ to $\mathcal{O}(N \log N)$ | Asymptotically optimal for generalized workloads. |
-| **Space (Memory Footprint)** | $\mathcal{O}(1)$ to $\mathcal{O}(N)$ | Minimal heap allocation overhead. |
-
----
-
-## 🧪 Verification & Unit Test Driver
-The `main.hs` file includes a self-contained test assertion suite validating:
-1. **Happy Path**: Standard operational workflows with verified inputs.
-2. **Edge Cases**: Boundary handling (empty inputs, extreme values, numeric limits).
-3. **Invariants Checking**: State consistency verification across structural mutations.
-
----
-
-## ⚡ How to Run & Verify Locally
+To compile and execute the test assertions for this module:
 
 ```bash
-# Execute test runner for this module
-runhaskell main.hs
+runghc main.hs
 ```
 
 ---
 
-<sub>🔬 *Artifact generated & verified by Universal Polyglot Autonomous Engineering Engine • 2026-10-05 07:23:49 UTC*</sub>
+*Source code released under the MIT License • [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

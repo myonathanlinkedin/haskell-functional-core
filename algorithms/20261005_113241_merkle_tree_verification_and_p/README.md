@@ -1,6 +1,6 @@
 # Merkle Tree Verification and Proof Generator
 
-A clean, dependency-free **Haskell** implementation of **Merkle Tree Verification and Proof Generator**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Haskell** reference implementation of **Merkle Tree Verification and Proof Generator**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **Haskell** implementation of **Merkle Tree Verificatio
 This module organizes `Merkle Tree Verification and Proof Generator` into an isolated, self-contained unit:
 * **Domain Focus**: `Balanced Hierarchical Indexing`
 * **Primary Primitives**: `Node Pointers & Self-Balancing Trees`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: State consistency is verified after every mutation through formal invariant validation.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(\log N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(log N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ runghc main.hs
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

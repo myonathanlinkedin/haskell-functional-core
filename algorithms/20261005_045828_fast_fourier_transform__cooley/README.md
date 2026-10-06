@@ -1,6 +1,6 @@
 # Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing
 
-A clean, dependency-free **Haskell** implementation of **Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Haskell** reference implementation of **Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **Haskell** implementation of **Fast Fourier Transform 
 This module organizes `Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing` into an isolated, self-contained unit:
 * **Domain Focus**: `Computational Mathematics & Transformation`
 * **Primary Primitives**: `Lookup Tables & Bitwise Bitvectors`
-* **Memory Strategy**: Zero superfluous dynamic allocations; structured for mechanical sympathy with the host runtime.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Zero external heap dependencies; designed as a pure in-memory algorithmic component.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(N \log N)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N \log N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(N log N)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N log N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ runghc main.hs
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

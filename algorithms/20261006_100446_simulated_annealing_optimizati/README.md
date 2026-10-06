@@ -11,8 +11,8 @@ A clean, dependency-free **Haskell** reference implementation of **Simulated Ann
 
 ## Performance Characteristics
 
-* **Time**: `$O((V + E) \log V)$` average, with `$O(V + E)$` best-case response under ideal conditions.
-* **Space**: `$O(V + E)$` memory usage.
+* **Time**: `O((V + E) log V)` average, with `O(V + E)` best-case response under ideal conditions.
+* **Space**: `O(V + E)` memory usage.
 
 ## Test Harness
 

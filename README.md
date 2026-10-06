@@ -18,17 +18,17 @@
 | 3 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_072349_simulated_annealing_optimizati/main.hs) |
 | 4 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_113241_merkle_tree_verification_and_p/core.hs) |
 | 5 | **Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_133241_single-sample_prophet_inequali/core.hs) |
-| 6 | **Sorting a million rows in JavaScript, and where the time actually goes** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_173156_sorting_a_million_rows_in_java/types.hs) |
+| 6 | **Sorting a million rows in JavaScript, and where the time actually goes** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_173156_sorting_a_million_rows_in_java/engine.hs) |
 | 7 | **Suffix Automaton for Linear-Time Substring Indexing** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_190225_suffix_automaton_for_linear-ti/core.hs) |
 | 8 | **4 Lines of Go Taught Me More About CPU, Threads and Memory Than Hours of Theory** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_230243_4_lines_of_go_taught_me_more_a/core.hs) |
 | 9 | **Lamport Logical Timestamp Synchronization Engine** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_003706_lamport_logical_timestamp_sync/core.hs) |
-| 10 | **Mold 3.0.0 Released** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_033232_mold_3_0_0_released/types.hs) |
+| 10 | **Mold 3.0.0 Released** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_033232_mold_3_0_0_released/engine.hs) |
 | 11 | **Async Concurrency: Where does the scheduler live?** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_044720_async_concurrency__where_does/core.hs) |
-| 12 | **Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_053331_terracotta__enabling_the_adopt/types.hs) |
+| 12 | **Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_053331_terracotta__enabling_the_adopt/engine.hs) |
 | 13 | **A new, bespoke static site generator to replace Jekyll** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075315_a_new__bespoke_static_site_gen/core.hs) |
 | 14 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075540_simulated_annealing_optimizati/core.hs) |
-| 15 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081301_simulated_annealing_optimizati/types.hs) |
-| 16 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_100446_simulated_annealing_optimizati/types.hs) |
+| 15 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081301_simulated_annealing_optimizati/engine.hs) |
+| 16 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_100446_simulated_annealing_optimizati/engine.hs) |
 | 17 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_103057_merkle_tree_verification_and_p/core.hs) |
 
 ---
@@ -58,4 +58,4 @@ runhaskell main.hs
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:31 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:45 UTC*</sub>

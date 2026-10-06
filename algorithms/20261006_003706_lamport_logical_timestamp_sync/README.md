@@ -1,18 +1,18 @@
 # Lamport Logical Timestamp Synchronization Engine in Haskell
 
-Modern **Haskell** reference architecture for **Lamport Logical Timestamp Synchronization Engine**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+Core **Haskell** implementation for **Lamport Logical Timestamp Synchronization Engine**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ## Implementation Details
 
 * **Category**: `Algorithmic Engineering`
 * **Data Structure Foundation**: `Standard Memory Primitives`
-* **Allocation Pattern**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Invariant Integrity**: State consistency is verified after every mutation through formal invariant validation.
+* **Allocation Pattern**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Invariant Integrity**: State consistency is verified after mutations through assertion test coverage.
 
 ## Performance Characteristics
 
-* **Time**: `$O(N)$` average, with `$O(1)$` best-case response under ideal conditions.
-* **Space**: `$O(N)$` memory usage.
+* **Time**: `O(N)` average, with `O(1)` best-case response under ideal conditions.
+* **Space**: `O(N)` memory usage.
 
 ## Test Harness
 
@@ -24,4 +24,4 @@ runghc main.hs
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

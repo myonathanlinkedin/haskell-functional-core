@@ -1,6 +1,6 @@
 # Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction
 
-A clean, dependency-free **Haskell** implementation of **Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Haskell** reference implementation of **Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **Haskell** implementation of **Single-Sample Prophet I
 This module organizes `Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: State consistency is verified after every mutation through formal invariant validation.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: State consistency is verified after mutations through assertion test coverage.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ runghc main.hs
 
 ---
 
-*Authored & verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Systems Engineering Portfolio*
+*Reference implementation verified by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

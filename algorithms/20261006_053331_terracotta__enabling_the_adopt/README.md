@@ -1,6 +1,6 @@
 # Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface
 
-A clean, dependency-free **Haskell** implementation of **Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **Haskell** reference implementation of **Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **Haskell** implementation of **Terracotta: Enabling th
 This module organizes `Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Correctness Model**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Memory Strategy**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Correctness Model**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ runghc main.hs
 
 ---
 
-<sub>Crafted with modern Haskell standards • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
+<sub>Standard Haskell reference implementation • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)</sub>
