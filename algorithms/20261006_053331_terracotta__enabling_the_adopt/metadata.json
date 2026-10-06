@@ -1,0 +1,13 @@
+{
+  "topic": "Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-06T05:33:31.397085+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "types.hs",
+    "engine.hs",
+    "main.hs"
+  ]
+}
