@@ -2,7 +2,7 @@
 > Mathematically verified functional structures, monadic architectures, and combinatorial algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/haskell-functional-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-23%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -35,6 +35,7 @@
 | 20 | **A Terminal Protocol for Program Status (OSC 7501)** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_010214_a_terminal_protocol_for_progra/core.hs) |
 | 21 | **Stimulate TRIE data structure** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_054123_stimulate_trie_data_structure/core.hs) |
 | 22 | **DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_080427_dysco__dynamic_sharding_for_co/core.hs) |
+| 23 | **Suffix Automaton for Linear-Time Substring Indexing** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_110147_suffix_automaton_for_linear-ti/core.hs) |
 
 ---
 
@@ -63,4 +64,4 @@ runhaskell main.hs
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 08:04 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 11:01 UTC*</sub>
