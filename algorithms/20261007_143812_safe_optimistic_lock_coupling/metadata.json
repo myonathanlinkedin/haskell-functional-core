@@ -1,0 +1,13 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-07T14:38:12.763638+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "types.hs",
+    "engine.hs",
+    "main.hs"
+  ]
+}

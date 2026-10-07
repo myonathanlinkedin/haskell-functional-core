@@ -2,7 +2,7 @@
 > Mathematically verified functional structures, monadic architectures, and combinatorial algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/haskell-functional-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-22%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -21,11 +21,11 @@
 | 6 | **Suffix Automaton for Linear-Time Substring Indexing** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_190225_suffix_automaton_for_linear-ti/core.hs) |
 | 7 | **Lamport Logical Timestamp Synchronization Engine** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_003706_lamport_logical_timestamp_sync/core.hs) |
 | 8 | **Async Concurrency: Where does the scheduler live?** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_044720_async_concurrency__where_does/core.hs) |
-| 9 | **Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_053331_terracotta__enabling_the_adopt/engine.hs) |
+| 9 | **Terracotta: Enabling the Adoption of New DRAM Techniques via a Flexible DRAM Interface** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_053331_terracotta__enabling_the_adopt/types.hs) |
 | 10 | **A new, bespoke static site generator to replace Jekyll** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075315_a_new__bespoke_static_site_gen/core.hs) |
 | 11 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075540_simulated_annealing_optimizati/core.hs) |
-| 12 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081301_simulated_annealing_optimizati/engine.hs) |
-| 13 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_100446_simulated_annealing_optimizati/engine.hs) |
+| 12 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081301_simulated_annealing_optimizati/types.hs) |
+| 13 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_100446_simulated_annealing_optimizati/types.hs) |
 | 14 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_103057_merkle_tree_verification_and_p/core.hs) |
 | 15 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_180042_simulated_annealing_optimizati/core.hs) |
 | 16 | **Bytecode Virtual Machine with Stack Evaluation Engine** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_194225_bytecode_virtual_machine_with/core.hs) |
@@ -33,7 +33,8 @@
 | 18 | **Stimulate TRIE data structure** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_054123_stimulate_trie_data_structure/core.hs) |
 | 19 | **DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_080427_dysco__dynamic_sharding_for_co/core.hs) |
 | 20 | **Suffix Automaton for Linear-Time Substring Indexing** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_110147_suffix_automaton_for_linear-ti/core.hs) |
-| 21 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_120431_simulated_annealing_optimizati/engine.hs) |
+| 21 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_120431_simulated_annealing_optimizati/types.hs) |
+| 22 | **Safe Optimistic Lock Coupling** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_143812_safe_optimistic_lock_coupling/types.hs) |
 
 ---
 
@@ -62,4 +63,4 @@ runhaskell main.hs
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 14:05 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 14:38 UTC*</sub>
