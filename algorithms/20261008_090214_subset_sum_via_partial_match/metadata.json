@@ -1,0 +1,13 @@
+{
+  "topic": "Subset Sum via Partial Match",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-08T09:02:14.981114+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "types.hs",
+    "engine.hs",
+    "main.hs"
+  ]
+}
