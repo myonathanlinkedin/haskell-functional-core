@@ -1,0 +1,12 @@
+{
+  "topic": "Dijkstra Shortest Path with Fibonacci Heap Priority Queue",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-09T14:27:06.098251+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
