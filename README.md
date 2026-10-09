@@ -2,7 +2,7 @@
 > Mathematically verified functional structures, monadic architectures, and combinatorial algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/haskell-functional-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-26%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-27%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -39,6 +39,7 @@
 | 24 | **Truly Sub-3ⁿ Min-Sum Subset Convolution and Join Ordering** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_060956_truly_sub-3n_min-sum_subset_co/core.hs) |
 | 25 | **Subset Sum via Partial Match** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_090214_subset_sum_via_partial_match/types.hs) |
 | 26 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_091228_merkle_tree_verification_and_p/core.hs) |
+| 27 | **Huffman Coding Lossless Compression and Decompression** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_133857_huffman_coding_lossless_compre/types.hs) |
 
 ---
 
@@ -67,4 +68,4 @@ runhaskell main.hs
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-08 09:12 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-09 13:39 UTC*</sub>
