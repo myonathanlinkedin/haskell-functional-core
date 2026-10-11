@@ -2,7 +2,7 @@
 > Mathematically verified functional structures, monadic architectures, and combinatorial algorithms. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/haskell-functional-core/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-28%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
+[![Total Modules](https://img.shields.io/badge/Algorithms-29%20Modules-blue?style=for-the-badge&logo=haskell)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/haskell-functional-core)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -19,28 +19,29 @@
 | 4 | **Suffix Automaton for Linear-Time Substring Indexing** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261005_190225_suffix_automaton_for_linear-ti/core.hs) |
 | 5 | **Lamport Logical Timestamp Synchronization Engine** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_003706_lamport_logical_timestamp_sync/core.hs) |
 | 6 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_075540_simulated_annealing_optimizati/core.hs) |
-| 7 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081301_simulated_annealing_optimizati/engine.hs) |
-| 8 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_100446_simulated_annealing_optimizati/engine.hs) |
+| 7 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081301_simulated_annealing_optimizati/types.hs) |
+| 8 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_100446_simulated_annealing_optimizati/types.hs) |
 | 9 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_103057_merkle_tree_verification_and_p/core.hs) |
 | 10 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_180042_simulated_annealing_optimizati/core.hs) |
 | 11 | **Bytecode Virtual Machine with Stack Evaluation Engine** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_194225_bytecode_virtual_machine_with/core.hs) |
 | 12 | **Suffix Automaton for Linear-Time Substring Indexing** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_110147_suffix_automaton_for_linear-ti/core.hs) |
-| 13 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_120431_simulated_annealing_optimizati/engine.hs) |
+| 13 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_120431_simulated_annealing_optimizati/types.hs) |
 | 14 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_091228_merkle_tree_verification_and_p/core.hs) |
-| 15 | **Huffman Coding Lossless Compression and Decompression** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_133857_huffman_coding_lossless_compre/engine.hs) |
+| 15 | **Huffman Coding Lossless Compression and Decompression** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_133857_huffman_coding_lossless_compre/types.hs) |
 | 16 | **Dijkstra Shortest Path with Fibonacci Heap Priority Queue** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_142706_dijkstra_shortest_path_with_fi/core.hs) |
 | 17 | **Hopcroft-Karp Bipartite Matching Algorithm** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_150032_hopcroft-karp_bipartite_matchi/core.hs) |
-| 18 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_155700_merkle_tree_verification_and_p/engine.hs) |
-| 19 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_170221_merkle_tree_verification_and_p/engine.hs) |
+| 18 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_155700_merkle_tree_verification_and_p/types.hs) |
+| 19 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_170221_merkle_tree_verification_and_p/types.hs) |
 | 20 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261009_180203_simulated_annealing_optimizati/core.hs) |
 | 21 | **Self-Balancing AVL Tree with Full Rotation Engine** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_130438_self-balancing_avl_tree_with_f/core.hs) |
 | 22 | **Custom Buddy Memory Allocation System** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_183307_custom_buddy_memory_allocation/core.hs) |
 | 23 | **Hopcroft-Karp Bipartite Matching Algorithm** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_230517_hopcroft-karp_bipartite_matchi/core.hs) |
 | 24 | **Safe Optimistic Lock Coupling** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_010616_safe_optimistic_lock_coupling/core.hs) |
-| 25 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_014127_merkle_tree_verification_and_p/engine.hs) |
+| 25 | **Merkle Tree Verification and Proof Generator** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_014127_merkle_tree_verification_and_p/types.hs) |
 | 26 | **Huffman Coding Lossless Compression and Decompression** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_080538_huffman_coding_lossless_compre/core.hs) |
 | 27 | **Simulated Annealing Optimization for Combinatorial Graphs** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_110516_simulated_annealing_optimizati/core.hs) |
 | 28 | **Compression and Concatenation on the Web** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_130229_compression_and_concatenation/core.hs) |
+| 29 | **Micro** | haskell | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_152027_micro/core.hs) |
 
 ---
 
@@ -69,4 +70,4 @@ runhaskell main.hs
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 14:30 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 15:20 UTC*</sub>
