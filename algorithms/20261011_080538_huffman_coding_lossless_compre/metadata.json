@@ -1,0 +1,12 @@
+{
+  "topic": "Huffman Coding Lossless Compression and Decompression",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-11T08:05:38.703852+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
