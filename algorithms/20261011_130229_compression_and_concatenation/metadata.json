@@ -1,0 +1,11 @@
+{
+  "topic": "Compression and Concatenation on the Web",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-11T13:02:29.470146+00:00",
+  "source_file": "core.hs",
+  "files": [
+    "core.hs"
+  ]
+}
