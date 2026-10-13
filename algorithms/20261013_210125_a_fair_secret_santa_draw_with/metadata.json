@@ -1,0 +1,13 @@
+{
+  "topic": "A fair Secret Santa draw with exclusions is a matching problem",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-13T21:01:25.660130+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "types.hs",
+    "engine.hs",
+    "main.hs"
+  ]
+}
