@@ -1,0 +1,8 @@
+{
+  "topic": "Fast Fourier Transform (Cooley-Tukey Radix-2) Signal Processing",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-05T04:58:28.975279+00:00",
+  "source_file": "main.hs"
+}
