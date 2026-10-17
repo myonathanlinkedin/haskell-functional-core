@@ -1,0 +1,12 @@
+{
+  "topic": "Simulated Annealing Optimization for Combinatorial Graphs",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-17T11:44:14.451443+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
