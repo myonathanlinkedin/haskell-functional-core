@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Full Rotation Engine",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-10T13:04:38.749123+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
