@@ -1,0 +1,12 @@
+{
+  "topic": "Cuckoo Filter High-Efficiency Deletion Structure",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-23T07:01:29.412222+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
