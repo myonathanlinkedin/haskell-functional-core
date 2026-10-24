@@ -1,0 +1,12 @@
+{
+  "topic": "Incremental Computation Graphs",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-10-24T07:01:28.819974+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
