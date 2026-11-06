@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Aether-Continuum",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-06T07:02:25.330941+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
