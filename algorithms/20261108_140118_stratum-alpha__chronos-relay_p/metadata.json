@@ -1,0 +1,12 @@
+{
+  "topic": "Stratum-Alpha (Chronos-Relay Protocol): Building Interoperable Axiom-Flux Systems",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-08T14:01:18.750021+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
