@@ -1,0 +1,12 @@
+{
+  "topic": "Runge-Kutta 4th Order Numerical ODE Integrator",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-08T09:03:01.916989+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
