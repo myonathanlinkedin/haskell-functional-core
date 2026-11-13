@@ -1,0 +1,12 @@
+{
+  "topic": "Data Structures in Aether-Continuum Maps",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-13T23:01:31.893720+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
