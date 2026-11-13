@@ -1,0 +1,12 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-13T21:02:25.918447+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
