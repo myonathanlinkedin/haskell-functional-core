@@ -1,0 +1,12 @@
+{
+  "topic": "Kildall s algorithm",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-15T03:02:54.035787+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
