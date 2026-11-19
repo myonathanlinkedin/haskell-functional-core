@@ -1,0 +1,13 @@
+{
+  "topic": "A Principled Approach to Concurrency, Nondeterminism, and Asynchrony in Choreographies",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-19T19:03:55.403927+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "types.hs",
+    "engine.hs",
+    "main.hs"
+  ]
+}
