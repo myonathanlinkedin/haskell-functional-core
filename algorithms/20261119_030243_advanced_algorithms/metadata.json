@@ -1,0 +1,12 @@
+{
+  "topic": "Advanced Algorithms",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-19T03:02:43.755322+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
