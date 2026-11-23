@@ -1,0 +1,12 @@
+{
+  "topic": "Red-Black Tree with Deterministic Balance Assertions",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-23T20:01:07.965659+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
