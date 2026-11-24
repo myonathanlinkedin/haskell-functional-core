@@ -1,0 +1,12 @@
+{
+  "topic": "iTerm2 Arbitrary Command Execution via Kitty Image Protocol APC Response Injection",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-24T23:01:52.916894+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
