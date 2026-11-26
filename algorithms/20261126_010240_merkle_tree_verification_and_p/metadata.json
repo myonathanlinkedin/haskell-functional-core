@@ -1,0 +1,13 @@
+{
+  "topic": "Merkle Tree Verification and Proof Generator",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-26T01:02:40.092622+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "types.hs",
+    "engine.hs",
+    "main.hs"
+  ]
+}
