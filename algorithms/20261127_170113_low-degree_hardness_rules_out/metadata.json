@@ -1,0 +1,12 @@
+{
+  "topic": "Low-degree hardness rules out eigenvalue tests but not eigenvector tests",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-27T17:01:13.248604+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
