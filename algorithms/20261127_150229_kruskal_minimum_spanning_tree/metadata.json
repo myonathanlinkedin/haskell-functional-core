@@ -1,0 +1,12 @@
+{
+  "topic": "Kruskal Minimum Spanning Tree with Disjoint-Set Union",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-27T15:02:29.151692+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
