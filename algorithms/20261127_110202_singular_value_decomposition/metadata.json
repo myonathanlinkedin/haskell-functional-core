@@ -1,0 +1,12 @@
+{
+  "topic": "Singular Value Decomposition (SVD) for Low-Rank Approximation",
+  "language": "Haskell",
+  "extension": ".hs",
+  "category": "haskell",
+  "timestamp_utc": "2026-11-27T11:02:02.505219+00:00",
+  "source_file": "main.hs",
+  "files": [
+    "core.hs",
+    "main.hs"
+  ]
+}
